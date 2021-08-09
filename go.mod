@@ -1,4 +1,4 @@
-module github.com/bep/s3deploy/v2
+module github.com/blimmer/s3deploy/v2
 
 go 1.14
 
