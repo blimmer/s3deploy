@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/bep/s3deploy/v2/lib"
+	"github.com/blimmer/s3deploy/v2/lib"
 )
 
 var (
